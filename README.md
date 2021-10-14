@@ -2,5 +2,7 @@
 
 <h2>Predicting the City-Cycle Fuel Consumption in Miles per Gallon of a Car</h2>
 
+This Group Project was made during ReGeneration Academy on Data Science(powered by Papastratos) during September/October 2021.
+
 The project intertwines Power BI and Machine learning to predict city-cycle fuel consumption in miles per gallon of a car.
 
