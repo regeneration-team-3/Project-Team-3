@@ -18,7 +18,7 @@ The project intertwines Power BI and Machine learning to predict city-cycle fuel
 
 <br>
 <br>
-<p align="center"><kbd><img width="1000" height="100" src="images/header.PNG"></kbd></p><br>                     
+<p align="center"><kbd><img width="1000" height="100" src="Images/header.PNG"></kbd></p><br>                     
 <br>
 </body>
 </html>
