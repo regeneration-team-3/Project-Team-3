@@ -6,3 +6,5 @@ This Group Project was made during ReGeneration Academy on Data Science(powered 
 
 The project intertwines Power BI and Machine learning to predict city-cycle fuel consumption in miles per gallon of a car.
 
+<h3> Overview of the Data/Exploratory Data Analysis
+
