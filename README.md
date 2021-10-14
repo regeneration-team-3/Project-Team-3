@@ -1,4 +1,12 @@
-![header](https://user-images.githubusercontent.com/79016652/137280283-2e5b3001-c3df-4067-9563-474d70c583e8.PNG)
+<html>
+
+<p align="left"><img width="1000" height="auto" src="Images/header.PNG"></p>          
+
+<body>
+
+<p>
+
+
 
 <h2>Predicting the City-Cycle Fuel Consumption in Miles per Gallon of a Car</h2>
 
