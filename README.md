@@ -16,13 +16,13 @@ The project intertwines Power BI and Machine learning to predict city-cycle fuel
 
 <h3> Overview of the Data with Power BI (D01)
  
-<h3> Exploratory Data Analysis(D02)
+<h3> Exploratory Data Analysis (D02)
  
-<h3> Preprocessing(D03)
+<h3> Preprocessing (D03)
  
-<h3> Dashboard with Power BI(D04)
+<h3> Dashboard with Power BI (D04)
 
-<h3> Machine Learning Models(D05)
+<h3> Machine Learning Models (D05)
   
 <h3> Conclusions
 
