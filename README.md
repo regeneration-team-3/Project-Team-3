@@ -23,8 +23,12 @@ The project intertwines Power BI and Machine learning to predict city-cycle fuel
 <h4> Machine Learning Model (D05)
 <h4> Conclusions (Presentation of our Data Product)
  
+ 
+ 
 <h3> Interim Submissions<h3>
 
+ 
+ 
 <h3> Scrapbook<h3>
 <h4>Our tries, approaches and versions before submissions.
  
