@@ -13,7 +13,7 @@ This Group Project was made during ReGeneration Academy on Data Science(powered 
  
 * Created a tool that estimates Miles per Gallon(mpg) to present it to a car rentinig company in order to use it when reniewing her car fleet.
 
-* Dataset used had 400 cars provided by Airbnb.
+* Dataset used had data for 400 cars provided by Airbnb.
 
 * Made 2 Dashboards using Microsoft Power BI, 
 
