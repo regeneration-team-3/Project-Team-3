@@ -21,17 +21,17 @@ This Group Project was made during ReGeneration Academy on Data Science(powered 
  
 <h3>Final Submissions<h3>
 
-<h4> Overview of the Data with Power BI (D01)
+* Overview of the Data with Power BI (D01)
 
-<h4> Exploratory Data Analysis (D02)
+* Exploratory Data Analysis (D02)
 
-<h4> Preprocessing (D03)
+* Preprocessing (D03)
 
-<h4> Dashboard with Power BI (D04)
+* Dashboard with Power BI (D04)
 
-<h4> Machine Learning Model (D05)
+* Machine Learning Model (D05)
 
-<h4> Conclusions (Presentation of our Data Product)
+* Conclusions (Presentation of our Data Product)
 
 
 
