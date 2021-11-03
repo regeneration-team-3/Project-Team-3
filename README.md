@@ -21,10 +21,7 @@ The project intertwines Power BI and Machine learning to predict city-cycle fuel
 <h4> Conclusions (Presentation of our Data Product)
  
  
- 
 <h3> Interim Submissions<h3>
-
- 
  
 <h3> Scrapbook<h3>
 <h4>Our tries, approaches and versions before submissions.
@@ -51,14 +48,12 @@ This Group Project was made during ReGeneration Academy on Data Science(powered 
 **Visualization Tools:** Microsoft Power BI
 
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, 
+
+## Dataset Overview (PowerBI)
  
- 
-
-
-
 ## Data Cleaning
 
-We needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
+We needed to clean it up so that it was usable for our model. We made the following changes and created the following variables:
 
 
 
@@ -77,6 +72,7 @@ We needed to clean it up so that it was usable for our model. I made the followi
 We looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights. 
 
 
+## Dataset Overview(after Cleaning & EDA analysis) 
 
 ## Model Building 
 
